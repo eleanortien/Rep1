@@ -1,0 +1,12 @@
+{
+  "name": "rep1",
+  "version": "1.0.0",
+  "description": "test web server for cps847",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
